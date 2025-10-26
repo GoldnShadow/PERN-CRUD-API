@@ -1,3 +1,6 @@
+#IMPORTANT
+Do NOT install the node modules, they are included in the Node Package Manager!
+
 # PERN CRUD API
 
 Minimal PERN (Postgres + Express + Node) CRUD API for users.
